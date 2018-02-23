@@ -25,6 +25,9 @@ DEFAULT_CONCURRENCY = 10
 DEFAULT_SRC_LANGUAGE = 'en'
 DEFAULT_DST_LANGUAGE = 'en'
 
+# Set default encoding to UTF-8
+reload(sys)
+sys.setdefaultencoding('UTF8')
 
 def percentile(arr, percent):
     arr = sorted(arr)
