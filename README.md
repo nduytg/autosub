@@ -1,7 +1,7 @@
 # Autosub <a href="https://pypi.python.org/pypi/autosub"><img src="https://img.shields.io/pypi/v/autosub.svg"></img></a> <a href="https://pypi.python.org/pypi/autosub">
 ### Auto-generated subtitles for any video
   
-***Note: Đây là một dự án dịch sub tự động dựa trên Google API, mình sẽ việt hóa và điều chỉnh lại mã nguồn cho cộng đồng Việt Nam sử dụng.
+Note: Đây là một dự án dịch sub tự động dựa trên Google API, mình sẽ việt hóa và điều chỉnh lại mã nguồn cho cộng đồng Việt Nam sử dụng.
 Project Roadmap
 1/ Dịch và tạo hướng dẫn chi tiết cho người dùng
 2/...
